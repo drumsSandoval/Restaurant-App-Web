@@ -1,0 +1,9 @@
+{
+  "prettier.requireConfig": true,
+  "eslint.enable": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
